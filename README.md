@@ -18,7 +18,7 @@ This is **Part 1** of the complete GradeBridge workflow:
 1. **Assignment Maker** (this app) - Create structured assignments with LaTeX support
 2. **[Student Submission](https://github.com/VeriQAi/GradeBridge-Student-Submission)** - Students complete work and generate grading-ready PDFs
 
-📖 **[See the complete workflow explanation →](https://github.com/VeriQAi/.github/blob/main/profile/WORKFLOW_MOTIVATION.md)**
+📖 [Constraints that create this problem](WORKFLOW_MOTIVATION.md)
 
 ---
 ## Overview
